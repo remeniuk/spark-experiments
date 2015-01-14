@@ -1,0 +1,5 @@
+{
+	from_date: 0,
+	to_date: 100000000,
+	sessions_path: /home/remeniuk/projects/spark-experiments/sessions.tsv	
+}
